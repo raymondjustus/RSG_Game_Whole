@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grass
+  - Path
+  - QuestionActivate
+  - CorrectAns
+  - IncorrectAns
+  - FinishLine
+  - Answer1
+  - Answer2
+  - Answer3
+  - AnsBar1
+  - AnsBar2
+  - AnsBar3
+  - AchievementList
+  - TurboPickup
+  - AnswerSign
+  - Deactivate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3646339535
+    locked: 0
+  - name: Environment
+    uniqueID: 1631334553
+    locked: 0
+  - name: Player
+    uniqueID: 4219531171
+    locked: 0
+  - name: Trees
+    uniqueID: 2275688001
+    locked: 0
+  - name: TallGrass
+    uniqueID: 945579337
+    locked: 0
+  - name: AbovePlayer
+    uniqueID: 94236795
+    locked: 0
